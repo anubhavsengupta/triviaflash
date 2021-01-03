@@ -1,0 +1,2 @@
+# triviaflash
+A trivia game
